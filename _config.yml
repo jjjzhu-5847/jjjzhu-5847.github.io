@@ -27,7 +27,7 @@ author:
   bio              : "Senior student of bachelor CS major"
   location         : "Houston"
   employer         : "University of Houston"
-  uri              : "/files/resume.pdf"# URL
+  uri              : # URL
   email            : "jtzhu2001@gmail.com" 
 
   # Academic websites
