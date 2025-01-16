@@ -24,10 +24,10 @@ author:
   avatar           : "face.jpg"
   name             : "Jinting Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Senior student of CS major"
+  bio              : "Senior student of bachelor CS major"
   location         : "Houston"
   employer         : "University of Houston"
-  uri              : # URL
+  uri              : "https://jjjzhu-5847.github.io/"# URL
   email            : "jtzhu2001@gmail.com" 
 
   # Academic websites
