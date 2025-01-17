@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Greeting, I'm Jinting Zhu!! \(@^0^@)/"
+title: "👋 Greeting, I'm Jinting Zhu!! (@^0^@)"
 author_profile: true
 redirect_from: 
   - /about/
