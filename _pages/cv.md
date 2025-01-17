@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /[resume](https://jjjzhu-5847.github.io/files/Jinting's Resume.pdf)
 ---
 
 {% include base_path %}
