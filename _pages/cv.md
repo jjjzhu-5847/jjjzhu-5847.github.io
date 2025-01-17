@@ -4,61 +4,42 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /files/Jinting's Resume.pdf
+  - /resume
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Houston, 2025 (expected)
+  * Minor in Math
+* A.S. in Computer Science, Lamar State College - Orange, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sept 2019 - Jan 2020: Sales Associate
+  * Kohl's
+  * Duties includes:
+    * Provided excellent customer service, managing transactions, maintaining organized. 
+    * Appealed product displays, assisting with inventory control.
+    * Collaborated with team members to ensure efficient store operations.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2024 - Current: Desk Assistant
+  * UH Student Housing & Residential Life offices
+  * Duties includes:
+    * Managed front desk operations, assisting residents with inquiries, and supporting administrative tasks.
+    * Helped organize events and act as a liaison between residents and housing staff, all while building relationships and        promoting a welcoming community.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Bilingual in English and Chinese (both Mandarin and Cantonese)
+* Proficient in use Virtual Studio, Virtual Studio Code, Node.JS, Replit, Microsoft
+  * Algorithms design and implementation
+  * Debugging
+  * Web Development (Full Stack)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* March 2019 – March 2020: Chapter Junior Counselor
+  * DeMolay International
+
