@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of combining vision and language modalities](/images/hello.jpg){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/hello.jpg){: .align-right width="250px"}
 🤖 I am  a Senior Student majoring in [Computer science](cs.uh.edu) of University of Houston
 
 🚗 I am currently working towards my Master program( if I can get it).
