@@ -36,8 +36,19 @@ Skills
 * Proficient in use Virtual Studio, Virtual Studio Code, Node.JS, Replit, Microsoft
   * Algorithms design and implementation
   * Debugging
-  * Web Development (Full Stack)
-  
+  * Database integration
+  * Cross-framework integration
+  * Web Development on Django framework (Full Stack, including UI/UX design and backend logic)
+ 
+
+Project
+======
+* Software design and Database System (Online Approval System)
+  * Developed a responsive web-based approval system using Django, with a focus on both front-end design (HTML, 
+CSS, JavaScript) and back-end functionality, including user management, MySQL database integration for storing user and product information, cross-platform integration, and Microsoft OAuth login implementation.
+
+
+
 Service and leadership
 ======
 * March 2019 – March 2020: Chapter Junior Counselor
