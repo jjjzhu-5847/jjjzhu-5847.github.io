@@ -1,6 +1,10 @@
 ---
 title: "Approval System"
-excerpt: "👆 Click here for detail. Preview of Project<a href='https://github.com/37DG/4353-project' target='_blank'>View GitHub Repo</a><br/><img src='/images/500x300.png'>"
+excerpt: "👆 Click here for detail. 
+Preview of Project<a href='https://github.com/37DG/4353-project' target='_blank'>View GitHub Repo</a>
+<br/><img src='/images/preview1.png'>
+<br/><img src='/images/preview2.png'>
+<br/><img src='/images/preview3.png'>"
 collection: portfolio
 ---
 -----------------------
