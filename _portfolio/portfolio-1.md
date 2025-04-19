@@ -1,7 +1,6 @@
 ---
 title: "Approval System"
-excerpt: "<p><strong>Django-based Approval Workflow System</strong><br/>An intuitive platform for dynamic form submission and approval — with role-based access, PDF generation, and Microsoft OAuth integration.</p><a href='https://youtu.be/yQ2K8-CZ75A' target='_blank'><img src='https://img.youtube.com/vi/yQ2K8-CZ75A/0.jpg' alt='Watch the video' width='100%' style='border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-top: 6px; display: block;'></a><div style='text-align:center; font-size: 0.9rem; margin-top: 4px;'>▶ Click to Watch Demo</div>"
-
+excerpt: "👆 Click here for detail. Preview of Project<a href='https://github.com/37DG/4353-project' target='_blank'>View GitHub Repo</a><br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 -----------------------
