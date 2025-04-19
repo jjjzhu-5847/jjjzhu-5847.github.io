@@ -7,21 +7,31 @@ collection: portfolio
 <div style="margin-bottom: 2rem;">
   <h2>Description</h2>
   <p>
-    The <strong>Approval System</strong> is a full-stack web-based application built with <strong>Django</strong>, designed to streamline approval workflows in organizational environments. It offers:
+    The <strong>Approval System</strong> is a full-stack web application built with <strong>Django</strong>, designed to streamline approval workflows within the University of Houston. It allows users to dynamically generate PDF versions of their required forms based on input and selection.
+  </p>
+  <p>
+    In addition to the requester interface, the system also provides a dedicated interface for <strong>approvers</strong>, enabling them to review submitted forms and make decisions such as approval, rejection, or requesting additional information — all within a centralized platform.
+  </p>
+  <p>
+    Throughout this project, I enhanced my skill set by working on:
   </p>
   <ul>
-    <li>Responsive front-end using <strong>HTML, CSS, and JavaScript</strong></li>
-    <li>Secure user management and authentication via <strong>Microsoft OAuth</strong></li>
-    <li>Robust data storage with <strong>MySQL</strong> integration</li>
-    <li>Role-based access for administrators, reviewers, and requesters</li>
+    <li>Building a responsive front-end using <strong>HTML, CSS, and JavaScript</strong></li>
+    <li>Implementing secure user authentication with <strong>Microsoft OAuth</strong></li>
+    <li>Integrating a <strong>MySQL</strong> database for robust data management</li>
+    <li>Designing role-based access control for administrators, requesters, and approvers</li>
+    <li>Developing PDF generation logic based on dynamic form inputs</li>
   </ul>
 </div>
 
+
 -----------------------
 
-<div style="margin-bottom: 2rem;">
+<div style="margin-bottom: 2rem; text-align: center;">
   <h2>📽 Watch the Demo Video</h2>
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/yQ2K8-CZ75A?start=1" title="Approval System Demo" frameborder="0"
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/yQ2K8-CZ75A?start=1" 
+    title="Approval System Demo" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
