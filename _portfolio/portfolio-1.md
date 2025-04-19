@@ -3,11 +3,11 @@ title: "Approval System"
 excerpt: |
   👆 Click here for detail description, demo video and repo link.
   <p><strong>Django-based Approval Workflow System</strong><br/>An intuitive platform for dynamic form submission and  approval — with role-based access, PDF generation, and Microsoft OAuth integration.</p>
-  Homepage:
+  <strong>Homepage:</strong>
   <img src='/images/preview1.png'><br/>
-  Admin view:
+  <strong>Admin view:</strong>
   <img src='/images/preview2.png'><br/>
-  Form1 request:
+  <strong>Form1 request:</strong>
   <img src='/images/preview3.png'>
 collection: portfolio
 ---
