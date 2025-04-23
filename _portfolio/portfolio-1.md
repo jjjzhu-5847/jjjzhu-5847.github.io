@@ -13,7 +13,7 @@ excerpt: |
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
-  <div style="margin-bottom: 2rem; text-align: center;">
+  <div style="margin-bottom: 2rem;">
   <h2>📂 GitHub Repository</h2>
   <p>
     Explore the full source code and documentation on GitHub:<br/>
@@ -46,12 +46,14 @@ collection: portfolio
 </div>
 
 -----------------------
-  <strong>Homepage:</strong>
-  <img src='/images/preview1.png'><br/>
-  <strong>Admin view:</strong>
-  <img src='/images/preview2.png'><br/>
-  <strong>Form1 request:</strong>
-  <img src='/images/preview3.png'>
+
+<strong>Homepage:</strong>
+<img src='/images/preview1.png'><br/>
+<strong>Admin view:</strong>
+<img src='/images/preview2.png'><br/>
+<strong>Form1 request:</strong>
+<img src='/images/preview3.png'>
+
 -----------------------
 
 <div style="margin-bottom: 2rem; text-align: center;">
