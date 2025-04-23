@@ -3,12 +3,7 @@ title: "Approval System"
 excerpt: |
   👆 <strong>Click Link above</strong> for detail description, demo video and repo link.
   <p><strong>Django-based Approval Workflow System</strong><br/>An intuitive platform for dynamic form submission and  approval — with role-based access, PDF generation, and Microsoft OAuth integration.</p>
-  <strong>Homepage:</strong>
-  <img src='/images/preview1.png'><br/>
-  <strong>Admin view:</strong>
-  <img src='/images/preview2.png'><br/>
-  <strong>Form1 request:</strong>
-  <img src='/images/preview3.png'>
+  
   <div style="margin-bottom: 2rem; text-align: center;">
   <h2>📽 Watch the Demo Video</h2>
   <iframe width="560" height="315" 
@@ -16,6 +11,16 @@ excerpt: |
     title="Approval System Demo" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+  <div style="margin-bottom: 2rem;">
+  <h2>📂 GitHub Repository</h2>
+  <p>
+    Explore the full source code and documentation on GitHub:<br/>
+    <a href="https://github.com/37DG/4353-project" target="_blank">
+      <strong>➡️ github.com/37DG/4353-project</strong>
+    </a>
+  </p>
   </div>
 collection: portfolio
 ---
@@ -40,7 +45,13 @@ collection: portfolio
   </ul>
 </div>
 
-
+-----------------------
+  <strong>Homepage:</strong>
+  <img src='/images/preview1.png'><br/>
+  <strong>Admin view:</strong>
+  <img src='/images/preview2.png'><br/>
+  <strong>Form1 request:</strong>
+  <img src='/images/preview3.png'>
 -----------------------
 
 <div style="margin-bottom: 2rem; text-align: center;">
