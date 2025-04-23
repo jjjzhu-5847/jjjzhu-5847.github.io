@@ -9,6 +9,14 @@ excerpt: |
   <img src='/images/preview2.png'><br/>
   <strong>Form1 request:</strong>
   <img src='/images/preview3.png'>
+  <div style="margin-bottom: 2rem; text-align: center;">
+  <h2>📽 Watch the Demo Video</h2>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/yQ2K8-CZ75A?start=1" 
+    title="Approval System Demo" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
 collection: portfolio
 ---
 -----------------------
