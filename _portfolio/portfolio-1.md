@@ -13,7 +13,7 @@ excerpt: |
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
-  <div style="margin-bottom: 2rem;">
+  <div style="margin-bottom: 2rem; text-align: center;">
   <h2>📂 GitHub Repository</h2>
   <p>
     Explore the full source code and documentation on GitHub:<br/>
